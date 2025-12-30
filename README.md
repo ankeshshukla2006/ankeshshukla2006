@@ -41,7 +41,7 @@
 
 ## 🎯 Resume & Portfolio
 <p align="center">
-  <a href="https://ankeshshukla2006.github.io/">
+  <a href="https://ankeshshukla2006.github.io/PORTFOLIO.github.io/">
     <img src="https://img.shields.io/badge/🚀_Portfolio-00F6FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
   <a href="https://drive.google.com/">
