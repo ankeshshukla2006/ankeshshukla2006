@@ -8,25 +8,66 @@
 
 ---
 
-## 🤖 About Me (AI-Themed)
-🧠 Passionate about **Artificial Intelligence**, problem-solving, and building futuristic digital experiences.  
-⚡ I enjoy working with **Python**, **C**, and exploring intelligent systems.  
-🌌 Inspired by **cyberpunk aesthetics & innovation**.
+## 🤖 About Me
+🧠 Python Developer and **AI Enthusiast** passionate about problem-solving and intelligent systems.  
+⚡ Focused on writing clean, scalable code and exploring real-world AI applications.  
+🌌 Inspired by futuristic technology and cyberpunk innovation.
 
 ---
 
-## 🧠 Skills Matrix
+## 🎓 Education
+- **B.Tech in Computer Science Engineering (Artificial Intelligence)**  
+  *Rungta College of Engineering & Technology (RCET), Bhilai*  
+  **2nd Year (Ongoing)**
+
+- **Schooling**  
+  *St. Joseph’s Mission School, Bijuri*
+
+---
+
+## 🧠 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00F6FF?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-7F00FF?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Development-00F6FF?style=for-the-badge&logo=html5&logoColor=black"/>
+</p>
+
+---
+
+## 💼 Work Status
+Currently focused on strengthening skills in **Python and Artificial Intelligence** through academics, self-learning, and hands-on projects.
+
+---
+
+## 🎯 Resume & Portfolio
+<p align="center">
+  <a href="https://ankeshshukla2006.github.io/PORTFOLIO.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-00F6FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ankeshshukla2006/ankeshshukla2006/blob/main/assets/resume.png" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_Resume-FF00FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ankeshshukla2006/ankeshshukla2006/blob/main/assets/resume.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/ankeshshukla2006/ankeshshukla2006/main/assets/resume.png" width="420"/>
+  </a>
+</p>
+
+---
+
+## 🧩 Featured Project
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshshukla2006&repo=MY-PORTFOLIO.github.io&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.instagram.com/ankesh_shukla_28?igsh=eTlpa2J4cGozenB5">
+  <a href="https://www.instagram.com/ankesh_shukla_28">
     <img src="https://img.shields.io/badge/Instagram-FF0050?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ankesh-shukla-002077336">
@@ -39,37 +80,7 @@
 
 ---
 
-## 🎯 Resume & Portfolio
-<p align="center">
-  <a href="https://ankeshshukla2006.github.io/PORTFOLIO.github.io/">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-00F6FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  <a href="https://drive.google.com/">
-    <img src="https://img.shields.io/badge/📄_Resume-FF00FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🧩 Animated Project Cards
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshshukla2006&repo=MY-PORTFOLIO.github.io&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
----
-
-## 💻 Cyberpunk Workspace
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240"/>
-</p>
-
----
-
-## 📊 GitHub AI Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankeshshukla2006&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
@@ -80,17 +91,17 @@
 
 ---
 
-## 🐍 Cyber Snake (Contribution Matrix)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/ankeshshukla2006/ankeshshukla2006/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 👁️ Visitor Counter
+## 👁️ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankeshshukla2006&label=PROFILE+VIEWS&color=00F6FF&style=flat"/>
 </p>
 
 <!-- ================== FOOTER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:7F00FF,100:00F6FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:7F00FF,100:00F6FF&height=140&section=footer"/>>
