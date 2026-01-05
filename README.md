@@ -8,10 +8,10 @@
 
 ---
 
-## 🤖 About Me (AI-Themed)
+## 🤖 About Me
 🧠 Passionate about **Artificial Intelligence**, problem-solving, and building futuristic digital experiences.  
 ⚡ I enjoy working with **Python**, **C**, and exploring intelligent systems.  
-🌌 Inspired by **cyberpunk aesthetics & innovation**.
+🌌 Inspired by **cyberpunk aesthetics, innovation, and AI-driven technology**.
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🧩 Animated Project Cards
+## 🧩 Featured Project
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshshukla2006&repo=MY-PORTFOLIO.github.io&theme=tokyonight"/>
 </p>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub AI Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankeshshukla2006&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
@@ -80,7 +80,7 @@
 
 ---
 
-## 🐍 Cyber Snake (Contribution Matrix)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/ankeshshukla2006/ankeshshukla2006/blob/output/github-contribution-grid-snake.svg"/>
 </p>
@@ -93,4 +93,4 @@
 </p>
 
 <!-- ================== FOOTER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:7F00FF,100:00F6FF&height=140&section=footer"/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:7F00FF,100:00F6FF&height=140&section=footer"/>
